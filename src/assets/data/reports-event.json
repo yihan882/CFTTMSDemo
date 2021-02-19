@@ -1,0 +1,7 @@
+{
+    "data": [
+        {"type": "EventReportChanged", "server": "10.42.2.50", "client": "172.11.33.55", "information": "Test", "createdTime": "2020/10/13 09:16:40", "createdBy": "Alan"},
+        {"type": "EventReportChanged", "server": "10.42.2.50", "client": "172.11.33.111", "information": "Json formate", "createdTime": "2020/10/13 09:16:32", "createdBy": "Alan"},
+        {"type": "EventReportCreated", "server": "10.23.17.111", "client": "172.11.56.79", "information": "info", "createdTime": "2020/10/13 09:16:13", "createdBy": "Alan"}
+    ]
+}
